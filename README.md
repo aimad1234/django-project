@@ -17,4 +17,4 @@ This project aims to create a web application that allows users to drag and drop
 
 ## Installation
 
-1. Clone the repository:
+
