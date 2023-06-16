@@ -1,4 +1,4 @@
-# YOLO Image Object Detection Web Application: Drag and Drop, Predict, and Visualize
+# YOLO Object Detection Web Application: Drag and Drop, Predict, and Visualize
 
 This project aims to create a web application that allows users to drag and drop images and perform object detection using the YOLO (You Only Look Once) algorithm of deep learning.
 
